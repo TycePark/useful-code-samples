@@ -1,5 +1,4 @@
 ##Use this function for sleep during webscraping with Selenium to mimick human activity
-
 from scipy.stats import truncnorm
 from time import sleep
 
